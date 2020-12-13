@@ -1,14 +1,11 @@
 import React from "react";
-
 // Importing icons
 import clock from "../img/clock.svg";
 import diaphragm from "../img/diaphragm.svg";
 import money from "../img/money.svg";
 import teamwork from "../img/teamwork.svg";
-
 // Importing images
 import home2 from "../img/home2.png";
-
 // Importing Styled
 import styled from "styled-components";
 import { About, Description, Image } from "../styles";

@@ -1,5 +1,4 @@
 import React from "react";
-
 // Animations
 import { motion } from "framer-motion";
 import { pageAnimation } from "../animation";

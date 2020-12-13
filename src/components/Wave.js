@@ -1,8 +1,6 @@
 import React from "react";
-
 // Importing Styled
 import styled from "styled-components";
-
 // Framer Motion
 import { motion } from "framer-motion";
 

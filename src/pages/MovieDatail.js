@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
+// Importing styled
 import styled from "styled-components";
+// Importing router
 import { useHistory } from "react-router-dom";
+// Importing state
 import { MovieState } from "../movieState";
-
 // Animations
 import { motion } from "framer-motion";
 import { pageAnimation } from "../animation";
